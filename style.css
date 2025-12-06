@@ -30,3 +30,24 @@ footer {
   padding: 10px;
   margin-top: 40px;
 }
+.hero p {
+  font-size: 18px;
+  margin: 12px 0;
+}
+
+.hero i {
+  font-size: 22px;
+  margin-right: 10px;
+}
+
+/* LinkedIn official blue */
+.linkedin-icon,
+.hero a {
+  color: #0077b5;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.hero a:hover {
+  text-decoration: underline;
+}
